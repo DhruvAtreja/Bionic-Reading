@@ -26,7 +26,7 @@ body{
 }
 
 .inputBody div{
-    width: 400px;
+    width: 500px;
     border-radius: 13px;
     border: none; 
     padding: 15px;
@@ -38,7 +38,7 @@ body{
 }
 
 .inputBody textarea{
-    width: 400px;
+    width: 500px;
     border-radius: 13px;
     border: none; 
     padding: 15px;
